@@ -1,1 +1,2 @@
-# bfu_sem3_ipr
+# Image processing and recognition
+Лабараторные работы по Методам обработки и распознавания изображений
